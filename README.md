@@ -1,6 +1,6 @@
 # An AR App as Instructional Material for Cell Cycle
 
-*Unity, Blender, Android
+*Unity, Vuforia, Blender, Android
 
 *APK Files- https://drive.google.com/drive/folders/1CQk59wqdFzT0yUxvSkODZZP6ssediXgy?usp=sharing
 
